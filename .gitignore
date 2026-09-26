@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Device data and generated repair packages must stay local.
+*.db
+*.db-wal
+*.db-shm
+*.sdr/
+KindleCoverCheck/
+KindleCoverRepair-*/
+manifest.json
+progress.before.txt
+progress.after.txt
+status.txt
