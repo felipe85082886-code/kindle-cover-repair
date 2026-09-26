@@ -1,0 +1,3 @@
+interface:
+  display_name: "Kindle 封面修复"
+  short_description: "修复个人文档封面，并核对原有阅读进度"
